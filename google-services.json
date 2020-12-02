@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1036018410825",
+    "firebase_url": "https://singapore-inst-of-tech.firebaseio.com",
+    "project_id": "singapore-inst-of-tech",
+    "storage_bucket": "singapore-inst-of-tech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036018410825:android:3294b24824bab6e4",
+        "android_client_info": {
+          "package_name": "com.kryptosmobile.SITU8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036018410825-qs5nucg198bm85afl6ph6k06aqtok4va.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq1GRJlotfIOjW8zZuG0qCoK7-bjUDyB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036018410825-qs5nucg198bm85afl6ph6k06aqtok4va.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036018410825:android:f6b3ad47b24245b232a698",
+        "android_client_info": {
+          "package_name": "com.unifyed.PTC"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036018410825-qs5nucg198bm85afl6ph6k06aqtok4va.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq1GRJlotfIOjW8zZuG0qCoK7-bjUDyB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036018410825-qs5nucg198bm85afl6ph6k06aqtok4va.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036018410825:android:cc2045f3fdb9367332a698",
+        "android_client_info": {
+          "package_name": "com.unifyed.dtu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036018410825-qs5nucg198bm85afl6ph6k06aqtok4va.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq1GRJlotfIOjW8zZuG0qCoK7-bjUDyB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036018410825-qs5nucg198bm85afl6ph6k06aqtok4va.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
